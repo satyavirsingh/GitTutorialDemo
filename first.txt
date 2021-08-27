@@ -1,0 +1,6 @@
+This version one of my project.
+
+->>> working directory    -->    Stage Area     -->    Git Directory
+                    git add --a            git commit -m
+
+change by Satya
